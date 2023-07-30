@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/StyleWindow">
+        <file>../../resources/qss/demo.qss</file>
+        <file>../../resources/images/logo.png</file>
+        <file>../../resources/images/close.png</file>
+        <file>../../resources/images/close_h.png</file>
+        <file>../../resources/images/close_p.png</file>
+        <file>../../resources/images/maximize.png</file>
+        <file>../../resources/images/maximize_h.png</file>
+        <file>../../resources/images/maximize_p.png</file>
+        <file>../../resources/images/menu.png</file>
+        <file>../../resources/images/menu_h.png</file>
+        <file>../../resources/images/menu_p.png</file>
+        <file>../../resources/images/minimize.png</file>
+        <file>../../resources/images/minimize_h.png</file>
+        <file>../../resources/images/minimize_p.png</file>
+        <file>../../resources/images/restore.png</file>
+        <file>../../resources/images/restore_h.png</file>
+        <file>../../resources/images/restore_p.png</file>
+        <file>../../resources/images/pin.png</file>
+        <file>../../resources/images/pin_h.png</file>
+        <file>../../resources/images/pin_p.png</file>
+        <file>../../resources/images/unpin.png</file>
+        <file>../../resources/images/unpin_h.png</file>
+        <file>../../resources/images/unpin_p.png</file>
+    </qresource>
+</RCC>
