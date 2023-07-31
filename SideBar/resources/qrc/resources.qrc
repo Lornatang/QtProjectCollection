@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/side_bar">
+        <file>../../resources/images/permission.png</file>
+        <file>../../resources/images/settings.png</file>
+        <file>../../resources/images/user.png</file>
+    </qresource>
+</RCC>
